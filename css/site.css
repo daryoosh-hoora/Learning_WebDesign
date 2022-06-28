@@ -77,3 +77,10 @@ td h4 {
 	margin-bottom: 0px;
 }
 
+.ref-box {
+	border-style: solid;
+	border-width: 1px;
+	margin: 50px;
+	padding: 50px;
+	
+}
